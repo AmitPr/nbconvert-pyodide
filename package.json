@@ -9,7 +9,7 @@
   "dependencies": {
     "@types/katex": "^0.11.0",
     "@types/marked": "^1.2.1",
-    "katex": "^0.12.0",
+    "katex": "^0.13.11",
     "marked": "^1.2.8",
     "uhtml": "^2.3.1"
   },
